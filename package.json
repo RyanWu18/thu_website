@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://[你的GitHub用户名].github.io/[你的仓库名]/",
+  "homepage": "https://RyanWu18.github.io/thu_website/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=./",
