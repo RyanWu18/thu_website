@@ -130,8 +130,3 @@ pnpm run preview
    pnpm run deploy
    ```
    这将会构建您的项目，并将 `dist` 目录的内容推送到GitHub仓库的 `gh-pages` 分支。GitHub Pages会自动从该分支部署您的网站。
-
-6. **GitHub Pages设置**: 在您的GitHub仓库设置中，找到 
-
-# thu_website
-# thu_website
