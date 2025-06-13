@@ -133,3 +133,4 @@ pnpm run preview
 
 6. **GitHub Pages设置**: 在您的GitHub仓库设置中，找到 
 
+# thu_website
